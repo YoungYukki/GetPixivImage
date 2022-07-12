@@ -1,0 +1,5 @@
+.open Pixiv.db
+CREATE TABLE PAINTER (
+    NAME TEXT,
+    UID  INT PRIMARY KEY
+);
