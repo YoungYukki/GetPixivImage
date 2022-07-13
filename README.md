@@ -18,6 +18,13 @@ sqlite3
 ```
 此时就会建好一个名为Pixiv.db的数据库
 
+### Python环境
+>使用python3  
+>安装requests包  
+```
+pip install requests
+```
+
 ---
 ## 启动
 ```
